@@ -1,5 +1,3 @@
-# 👋 Hi, I’m Iqra Arshad!
-
 ![Profile Picture](Untitled.png)
 
 
