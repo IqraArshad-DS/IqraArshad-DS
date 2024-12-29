@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist and AI Enthusiast</h3>
 
 <p align="center">
-  <img src="Untitled.png" alt="Iqra Arshad" width="300" />
+  <img src="Data.png" alt="Iqra Arshad" width="300" />
 </p>
 
 <p align="center">
