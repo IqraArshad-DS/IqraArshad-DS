@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Iqra Arshad!
 
-![Profile Picture]![image](https://github.com/user-attachments/assets/4cf9a84b-04df-485e-80ff-450b6cc49f36)
+![Profile Picture](Untitled.png)
 
 
 Welcome to my GitHub profile! I'm passionate about data science, technology, and continuous learning.
