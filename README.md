@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Iqra Arshad!
 
-![Profile Picture](![image](https://github.com/user-attachments/assets/4cf9a84b-04df-485e-80ff-450b6cc49f36)
-) 
+![Profile Picture]![image](https://github.com/user-attachments/assets/4cf9a84b-04df-485e-80ff-450b6cc49f36)
+
 
 Welcome to my GitHub profile! I'm passionate about data science, technology, and continuous learning.
 
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about data science, technology, and
 
 ## 🌐 Let's Connect
 - 🔗 **LinkedIn:** [Iqra Arshad DS](https://www.linkedin.com/in/iqra-arshad-ds/)
-- 📧 **Email:** [visionaryiqra21@gmail.com]
+- 📧 **Email:** visionaryiqra21@gmail.com
 
 ## 👩‍💻 Skills
 - **Programming Languages:** Python, HTML, CSS, SQL
